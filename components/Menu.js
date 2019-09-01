@@ -33,6 +33,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
   textBox: {
+    textAlign: 'center',
     flex: 1,
     fontSize: 50,
     fontWeight: 'bold',

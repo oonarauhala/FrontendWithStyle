@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
   },
   image: {
     flex: 1,
-    borderRadius: 16,
+    borderRadius: 30,
   },
   textbox: {
     flex: 2,
